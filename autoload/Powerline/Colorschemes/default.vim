@@ -47,7 +47,7 @@ let g:Powerline#Colorschemes#default#colorscheme = Pl#Colorscheme#Init([
 		\ }),
 	\
 	\ Pl#Hi#Segments(['mode_indicator'], {
-		\ 'n': ['darkestgreen', 'brightgreen', ['bold']],
+		\ 'n': ['brightpurple', 'darkestpurple', ['bold']],
 		\ 'i': ['darkestcyan', 'white', ['bold']],
 		\ 'v': ['darkred', 'brightorange', ['bold']],
 		\ 'r': ['white', 'brightred', ['bold']],
